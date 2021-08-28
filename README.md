@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Sahil Lather</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+# Hello, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
 
 
 - 👋 Hi, I’m @Sahillather002
