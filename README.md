@@ -41,7 +41,12 @@ You can click the Preview link to take a look at your changes.
 <details> 
   <summary>:zap: Coursera Certificates.</summary>
 
-  ![Certificate](https://github.com/Sahillather002/Skills-and-Certifications/blob/main/Coursera/Cognitive_Class_-_What_is_Data_Science_Coursera.png)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Python%20for%20Data%20Science%20and%20AI%20Development_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Basic%20Game%20Development_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20what%20is%20data%20Science_01.jpg) 
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Tools%20for%20Data%20Science_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Data%20Science%20Methodology_01.jpg)
+
   
 </details>
 
