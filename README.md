@@ -48,7 +48,11 @@ You can click the Preview link to take a look at your changes.
  <details> 
   <summary>:zap: Udemy Certificates.</summary>
 
-  ![Certificate]()
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/Python%20Mega%20Course_Go%20Beginner%20to%20Expert%20in%20Python%203.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/C%2B%2B%20Programming%20Step%20By%20Step%20From%20Begineer%20To%20Ultimate%20Level.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/Git%20and%20Github%20Master%20Course%20(2021).jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/TensorFlow%202.x%20Essentials%202021.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/Begnieer's%20Guide%20to%20Competitive%20Programming.jpg)
   
   </details>
   
