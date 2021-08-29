@@ -61,11 +61,27 @@ You can click the Preview link to take a look at your changes.
   
   </details>
   
-   <details> <summary>:zap: IBM SkillsBuild Certificates.</summary>
+   <details> <summary>:zap: IBM SkillsBuild Badges.</summary>
 
-   ![Certificate]()
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20HTML%20and%20CSS_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20badge_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20final_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20model%202_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20model%203_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20model%204_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20model%205_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-Tech%20CyberSecurity%20Fundamentals_01.jpg)
+  </details>
   
   </details>
+  
+   <details> <summary>:zap: LindedIn Certificates.</summary>
+
+   ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/Linkedin/CertificateOfCompletion_Learning%20Python_01.jpg)
+  
+  </details>
+  
+  
 <br>
 <br>
   
