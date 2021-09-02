@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20what%20is%20data%20Science_01.jpg) 
   ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Tools%20for%20Data%20Science_01.jpg)
   ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Data%20Science%20Methodology_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Data%20Science%20Methodology_01.jpg)
+  ![Certificate](https://github.com/Sahillather002/Skills-and-Certifications/blob/master/coursera/CERTIFICATE_Programming%20for%20Everybody.jpeg)
   
 </details>
 
