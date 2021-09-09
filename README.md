@@ -91,6 +91,16 @@ You can click the Preview link to take a look at your changes.
   
   </details>
   
+   <details> <summary>:fire: Internshala Certificates : 1️⃣</summary>
+
+   ![Certificate]( <details> <summary>:fire: AWS Certificates : 1️⃣</summary>
+
+   ![Certificate](https://github.com/Sahillather002/Skills-and-Certifications/blob/master/aws/AWS%20Innovate%20Data%20Adition.png)
+  
+  </details>)
+  
+  </details>
+  
 <br>
 <br>
   
