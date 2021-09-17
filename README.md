@@ -45,6 +45,7 @@ You can click the Preview link to take a look at your changes.
 <h1>My Certificates</h1>
 
 <details> 
+  
   <summary>:fire: Coursera Certificates: 6️⃣</summary>
 
   ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Python%20for%20Data%20Science%20and%20AI%20Development_01.jpg)
