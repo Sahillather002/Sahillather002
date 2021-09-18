@@ -24,7 +24,6 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Sahillather002)
-
 <br>
 <br>
 
