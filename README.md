@@ -28,7 +28,6 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/sahil-lather/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sahil lather" height="30" width="40" /></a>
 
 </p>
-
 <br>
 <br>
 
