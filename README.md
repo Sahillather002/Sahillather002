@@ -1,7 +1,5 @@
 <div align="center">
-  
 <img hight="200" width="800" alt="GIF" align="center" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/Welcome_to_my_profile_1.gif">
-
 </div>
 <h1 align="center">Hi 👋, I'm Sahil Lather</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
