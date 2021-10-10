@@ -46,6 +46,10 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sahillather002&label=Profile%20views&color=0e75b6&style=flat" alt="Sahillather002" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sahillather002" alt="Sahillather002" /></a> </p>
+
 <h1>My Certificates</h1>
 
 <details> 
