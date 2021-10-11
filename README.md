@@ -50,7 +50,7 @@ You can click the Preview link to take a look at your changes.
 <h2 align="left">Github's Stats ✨✨✨</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sahillather002" alt="Sahillather002" /></a> </p>
-
+<br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahillather002&show_icons=true&locale=en&layout=compact" alt="Sahillather002" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahillather002&show_icons=true&locale=en" alt="Sahillather002" /></p>
