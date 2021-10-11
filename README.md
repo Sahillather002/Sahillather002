@@ -48,7 +48,6 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <h2 align="left">Github's Stats ✨✨✨</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sahillather002&theme=onedark)](https://github.com/Sahillather002/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Sahillather002" alt="Sahillather002" /></a> </p>
 
