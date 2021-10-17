@@ -64,6 +64,9 @@ You can click the Preview link to take a look at your changes.
 
 <h1>My Certificates</h1>
 
+<br>
+
+
 <details> 
   
   <summary>:fire: Coursera Certificates: 6️⃣</summary>
