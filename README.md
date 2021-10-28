@@ -6,7 +6,6 @@
 <br>
 # Hello, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
 <img align='right' height="300" width="300" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/coding.gif" width="230">
-
 - 👋 Hi, I’m @Sahillather002
 - 👀 I’m interested in ...Data Science and its Specializations
 - 🌱 I’m currently learning ...Data Science and deep Learning projects
