@@ -61,6 +61,8 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahillather002&show_icons=true&locale=en" alt="Sahillather002" /></p>
 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sahillather002&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+
 <h1>My Certificates</h1>
 
 <br>
