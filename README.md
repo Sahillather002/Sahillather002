@@ -6,11 +6,15 @@
 <br>
 # Hello, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
 <img align='right' height="300" width="300" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/coding.gif" width="230">
+
 - 👋 Hi, I’m @Sahillather002
-- 👀 I’m interested in ...Data Science and its Specializations
+- 👀 I’m interested in ...Data Science and Machine Learning
 - 🌱 I’m currently learning ...Data Science and deep Learning projects
 - 💞️ I’m looking to collaborate on ...machine learning and data science projects
-- 📫 How to reach me ...Reach me through my mail "Sahillather002"
+-🎓 I'm a Undergraduate Computer Science Engineering Student at Lovely Professional University (currently on the second year!)
+-📊 Data Engineering Enthusiast!
+-💪 I'm a hardworker, fast learner, and I always eager to learn more about technology especially in the world of computer science
+
 <!---
 Sahillather002/Sahillather002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
