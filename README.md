@@ -11,9 +11,9 @@
 - 👀 I’m interested in ...Data Science and Machine Learning
 - 🌱 I’m currently learning ...Data Science and deep Learning projects
 - 💞️ I’m looking to collaborate on ...machine learning and data science projects
--🎓 I'm a Undergraduate Computer Science Engineering Student at Lovely Professional University (currently on the second year!)
--📊 Data Engineering Enthusiast!
--💪 I'm a hardworker, fast learner, and I always eager to learn more about technology especially in the world of computer science
+- 🎓 I'm a Undergraduate Computer Science Engineering Student at Lovely Professional University (currently on the second year!)
+- 📊 Data Engineering Enthusiast!
+- 💪 I'm a hardworker, fast learner, and I always eager to learn more about technology especially in the world of computer science
 
 <!---
 Sahillather002/Sahillather002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
