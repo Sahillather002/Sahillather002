@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Sahil Lather</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <br>
-<B> Hello, Welcome to my Profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
+<h3> Hello, Welcome to my Profile! </h2><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
 <img align='right' height="300" width="300" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/coding.gif" width="230">
 
 - 👋 Hi, I’m @Sahillather002
