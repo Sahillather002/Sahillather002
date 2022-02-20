@@ -24,9 +24,8 @@ You can click the Preview link to take a look at your changes.
  
 <br>
  
-![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Sahillather002)
- <h3> ♥ ♥ </h3>
- 
+ <h3> ♥ </h3>![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Sahillather002)
+
 <br>
 <br>
 <h3 align="left">Connect with me:</h3>
