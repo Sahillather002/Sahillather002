@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Sahillather002&show_icons=true&locale=en" alt="Sahillather002" /></p>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sahillather002&bg_color=000000&color=FF6666&line=FFEA80&point=ffffff&area=true&hide_border=true) 
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sahillather002&bg_color=000000&color=FF6666&line=FFEA80&point=ffffff&area=true&hide_border=true)  -->
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Sahillather002&" alt="Sahillather002" /></p>
 
