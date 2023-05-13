@@ -3,7 +3,6 @@
 </div>
 <h1 align="center">Hi 👋, I'm Sahil Lather</h1>
 <h3 align="center">♠♠</h3>
-
 <br>
 <B> Hello, Welcome to my Profile! 
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
