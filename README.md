@@ -46,6 +46,7 @@ You can click the Preview link to take a look at your changes.
 <a href="https://www.linkedin.com/in/sahil-lather/" target="blank"><img align="center" src="https://img.shields.io/badge/-LinkedIn-000000?style=flat&logo=Linkedin&logoColor=F05032&labelColor=ffffff" alt="sahil lather" height="60" width="180" /></a>
 </p>
 <br>
+
  
  
 <h3 align="left">Languages and Tools:</h3>
@@ -85,6 +86,12 @@ You can click the Preview link to take a look at your changes.
 ![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle&logoColor=F05032&labelColor=ffffff)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
   
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img height=200 src="https://skillicons.dev/icons?i=git,html,css,js,react,next,docker,c,cpp,java,python,github,vscode,tensorflow" />
+  </a>
 </p>
 
 
