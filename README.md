@@ -112,6 +112,19 @@ You can click the Preview link to take a look at your changes.
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Sahillather002&theme=dracula")/>
  -->
 
+<!-- github readme activity graph start -->
+<div align="center">
+    <img loading="lazy" alt="visitor badge" src="https://github-readme-activity-graph.vercel.app/graph?username=sahillather002&bg_color=0d1117&color=00b8b5&line=eb008b&point=FFFFFF&area=true&hide_border=true&hide_title=true">
+</div>
+<!-- github readme activity graph end -->
+
+<!-- github trophy start -->
+<div align="center">
+    <img loading="lazy" src="https://github-profile-trophy.vercel.app/?username=sahillather002&theme=dracula&no-bg=true&no-frame=true&row=3&column=6&rank=SSS,SS,S,AAA,AA,A"  alt="github profile trophy"/>
+</div>
+<!-- github trophy end -->
+
+
 
 
 
@@ -186,5 +199,19 @@ You can click the Preview link to take a look at your changes.
 <br>
 <br>
 <h2 align="center">💖 ~ 🆃🅷🅰🅽🅺🆂 🅵🅾🆁 🆁🅴🅰🅳🅸🅽🅶 ! 🅿🅻🅴🅰🆂🅴 🅲🅾🅼🅴 🅰🅶🅰🅸🅽 ~ 💖</h2>
+
+<!-- wave GIF start -->
+<div align="center">
+    <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
+</div>
+<!-- wave GIF end -->
+
+<!-- build with love svg start -->
+<div align="center">
+    <img loading="lazy" src="https://readme-typing-svg.demolab.com?font=Anton&weight=600&size=16&duration=2500&pause=1&color=00B8B5&center=true&vCenter=true&width=185&height=15&lines=%C2%A9+BUILD+WITH+%E2%9D%A4%EF%B8%8F;%C2%A9+BUILD+BY+MONTASIM" alt="build with love svg" />
+</div>
+<!-- build with love svg end -->
+
+
 
 </div>
