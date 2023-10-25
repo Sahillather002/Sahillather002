@@ -99,7 +99,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 <h2 align="left">Github's Stats ✨✨✨</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height=400 src="https://github-profile-trophy.vercel.app/?username=Sahillather002&theme=dracula" alt="Sahillather002" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img height=400 src="https://github-profile-trophy.vercel.app/?username=Sahillather002&theme=dracula&row=3&column=6" alt="Sahillather002" /></a> </p>
 <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sahillather002&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Sahillather002" /></p>
 
