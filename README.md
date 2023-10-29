@@ -5,6 +5,7 @@
 </div>
 <h1 align="center">Hi 👋, I'm Sahil Lather</h1>
 <h3 align="center">♠♠</h3>
+
 <br>
 <B> Hello, Welcome to my Profile! 
  
@@ -127,6 +128,7 @@ You can click the Preview link to take a look at your changes.
 <!-- github trophy end -->
 
 
+[![An image of @sahillather002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahillather002)](https://holopin.io/@sahillather002)
 
 
 
