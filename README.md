@@ -10,8 +10,10 @@
 <B> Hello, Welcome to my Profile! 
  
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
-<img align='right' height="300" width="300" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/coding.gif" width="230">
- 
+ <div>
+ <img align='right' width="400px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="coding"/>
+</div>
+ <div>
 - 👋 Hi, I’m @Sahillather002 <br>
  
 - 👀 I’m interested in ...AI and Machine Learning <br>
@@ -26,6 +28,11 @@
  
 - 💪 I'm a hardworker, fast learner, and I always eager to learn more about technology especially in the world of computer science
 
+<div>
+ <img align='right' height="300" width="300" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/coding.gif" alt="codinggif">
+</div>
+   </div>
+
  
 <!---
 Sahillather002/Sahillather002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -33,7 +40,7 @@ You can click the Preview link to take a look at your changes.
 --->
  
 <br>
- <h3> ♥♥♥ </h3>
+ <h3> ❤️❤️❤️ </h3>
  
  ![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.Sahillather002)
 
