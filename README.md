@@ -3,26 +3,25 @@
 <div align="center">
  <img hight="208" width="800" alt="GIF" align="center" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/Welcome_to_my_profile_1.gif">
 </div>
-<h1 align="center">Hi 👋, I'm Sahil Lather</h1>
-<!-- <h3 align="center">♠♠</h3>
- -->
-<br>
-<B> Hello, Welcome to my Profile! 
+<h1 align="center">Hi 👋, I'm Sahil Lather <img align="right" src="https://media.giphy.com/media/l1J9tiMFKV8R31J9m/giphy.gif" width="50px"> </h1>
+
+## <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="80px">&nbsp; ***About me***  <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="80px">
  
  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
  <div>
  <img align='right' width="400px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="coding"/>
 </div>
  <div>
-- 👋 Hi, I’m @Sahillather002 <br>
+  
+- 👋 Hi, I’m @sahillather002 <br>
  
-- 👀 I’m interested in ...AI and Machine Learning <br>
+- 👀 I’m interested in ... ***AI and Machine Learning*** <br>
  
-- 🌱 I’m currently learning ...ReactJs and Machine Learning <br>
+- 🌱 I’m currently learning ...***NextJs and NestJs*** <br>
  
-- 💞️ I’m looking to collaborate on ...machine learning and ReactJS projects <br>
+- 💞️ I’m looking to collaborate on ...***Machine learning and Web projects*** <br>
  
-- 🎓 I'm a Undergraduate Computer Science Engineering Student at Lovely Professional University (currently on the third year!) <br>
+- 🎓 I'm a Undergraduate CSE Student at LPU (currently on the fourth year!) <br>
  
 - 📊 Machine Leaning & AI Enthusiast! <br>
  
