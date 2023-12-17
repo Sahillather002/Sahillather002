@@ -54,7 +54,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 <br>
 
-[![Peerlist](https://github-readme-badge.peerlist.io/api/sahillather)](https://peerlist.io/sahillather)
+[![Peerlist](https://github-readme-badge.peerlist.io/api/sahillather)](https://peerlist.io/sahillather/signup)
 
  
  
