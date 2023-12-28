@@ -11,8 +11,9 @@
  <div>
  <img align='right' width="400px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="coding"/>
 </div>
- <div>
-  
+
+
+ <div> 
 - 👋 Hi, I’m @sahillather002 <br>
  
 - 👀 I’m interested in ***AI and Machine Learning*** <br>
@@ -30,7 +31,7 @@
 <div>
  <img align='right' height="400px" width="350" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/coding.gif" alt="codinggif">
 </div>
-   </div>
+</div>
 
  
 <!---
