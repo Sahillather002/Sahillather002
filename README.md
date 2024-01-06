@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="80px">&nbsp; ***About me***  <img src="https://media.giphy.com/media/Mn0PsxMyaoXRu/giphy.gif" width="80px">
  
- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="70px">
+ 
  <div>
  <img align='right' width="400px" src="https://preview.redd.it/bpxxqqvps4h91.gif?width=640&crop=smart&auto=webp&s=e29a6c5b5996e595d29e52030ed4e9abe618e3bd" alt="coding"/>
 </div>
@@ -30,7 +30,7 @@
 - 💪 I'm a ***hardworker***, ***fast learner***, and I always eager to learn more about technology especially in the world of computer science
 
 <div>
- <img align='right' height="400px" width="350" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/coding.gif" alt="codinggif">
+<!--  <img align='right' height="400px" width="350" src="https://github.com/Sahillather002/My-Portfolio/blob/master/img/coding.gif" alt="codinggif"> -->
 </div>
 </div>
 
