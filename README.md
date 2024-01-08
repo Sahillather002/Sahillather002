@@ -141,72 +141,6 @@ You can click the Preview link to take a look at your changes.
 [![An image of @sahillather002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sahillather002)](https://holopin.io/@sahillather002)
 
 
-
-
-<h1>My Certificates</h1>
-
-<br>
-
-<details> 
-  
-  <summary>:fire: Coursera Certificates: 6️⃣</summary>
-
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Python%20for%20Data%20Science%20and%20AI%20Development_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Basic%20Game%20Development_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20what%20is%20data%20Science_01.jpg) 
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Tools%20for%20Data%20Science_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/coursera/Coursera%20Data%20Science%20Methodology_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/Skills-and-Certifications/blob/master/coursera/CERTIFICATE_Programming%20for%20Everybody.jpeg)
-  
-</details>
-
- <details> 
-  <summary>:fire: Udemy Certificates : 5️⃣</summary>
-
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/Python%20Mega%20Course_Go%20Beginner%20to%20Expert%20in%20Python%203.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/C%2B%2B%20Programming%20Step%20By%20Step%20From%20Begineer%20To%20Ultimate%20Level.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/Git%20and%20Github%20Master%20Course%20(2021).jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/TensorFlow%202.x%20Essentials%202021.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/udemy/Begnieer's%20Guide%20to%20Competitive%20Programming.jpg)
-  
-  </details>
-  
-   <details> <summary>:fire: IBM SkillsBuild Badges : 8️⃣</summary>
-
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20HTML%20and%20CSS_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20badge_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20final_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20model%202_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20model%203_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20model%204_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-TECH%20ai%20model%205_01.jpg)
-  ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/IBM%20skill%20build/Open%20P-Tech%20CyberSecurity%20Fundamentals_01.jpg)
-  </details>
-  
-  </details>
-  
-   <details> <summary>:fire: LindedIn Certificates : 1️⃣</summary>
-
-   ![Certificate](https://github.com/Sahillather002/My-Portfolio/blob/master/img/Linkedin/CertificateOfCompletion_Learning%20Python_01.jpg)
-  
-  </details>
-  
-   <details> <summary>:fire: AWS Certificates : 1️⃣</summary>
-
-   ![Certificate](https://github.com/Sahillather002/Skills-and-Certifications/blob/master/aws/AWS%20Innovate%20Data%20Adition.png)
-  
-  </details>
-  
-   <details> <summary>:fire: Internshala Certificates : 1️⃣</summary>
-
-   ![Certificate]( <details> <summary>:fire: AWS Certificates : 1️⃣</summary>
-
-   ![Certificate](https://github.com/Sahillather002/Skills-and-Certifications/blob/master/aws/AWS%20Innovate%20Data%20Adition.png)
-  
-  </details>)
-  
-  </details> 
-<br>
 <br>
   
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="100"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
@@ -219,8 +153,5 @@ You can click the Preview link to take a look at your changes.
     <img loading="lazy" width="100%" alt="colored gif" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=160&section=footer">
 </div>
 <!-- wave GIF end -->
-
-
-
 
 </div>
