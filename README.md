@@ -22,9 +22,7 @@
 - 🌱 I’m currently learning ***NextJs and NestJs*** <br>
  
 - 💞️ I’m looking to collaborate on ***Machine learning and Web projects*** <br>
- 
-- 🎓 I'm a Undergraduate CSE Student at LPU (currently on the 4th year!) <br>
- 
+  
 - 📊 ***Machine Leaning & AI Enthusiast!*** <br>
  
 - 💪 I'm a ***hardworker***, ***fast learner***, and I always eager to learn more about technology especially in the world of computer science
